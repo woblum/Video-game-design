@@ -1,0 +1,5 @@
+Schedule and deliverable:
+  Help support working on the prototype   -- tues by 3pm (2-6 hrs)
+  Plan out what we need to work next and organize future meeting together tues by 12pm (1-3 hrs)
+  Look over feedback and review prototype - tues by 5pm (2-4 hrs)
+  Verify everything looks good in github and the prototype - tues by 8pm (1-3pm)

@@ -1,0 +1,4 @@
+Schedule and deliverable:
+  create the environment for prototype  -- tues by 19am (estimate: 2 hrs)
+  create player and third person camera-- tues by 11am (estimate: 2-3 hr)
+  work together on group presentation and whatever is needed to be done-- tues by 11pm (estimate: 2-4 hrs
